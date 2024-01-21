@@ -1,0 +1,311 @@
+{
+  "success": true,
+  "data": [
+    {
+      "taskTitle": "Introduction",
+      "taskType": "none",
+      "taskNo": 1,
+      "taskCreated": "2022-01-20T12:30:36.084Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "Click to continue to the next task",
+          "hint": "",
+          "questionNo": 1,
+          "correct": true,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": true,
+          "answerDesc": "No answer needed"
+        }
+      ],
+      "uploadId": "",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Click to continue to the next task",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "taskTitle": "Vulnerability Assessment and Penetration Tests Limitations",
+      "taskType": "none",
+      "taskNo": 2,
+      "taskCreated": "2022-01-20T12:32:35.834Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "Would vulnerability assessments prepare us to <b>detect</b> a real attacker on our networks? (Yay/Nay)",
+          "hint": "",
+          "questionNo": 1,
+          "correct": true,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "Nay",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ***"
+        },
+        {
+          "question": "<p>During a penetration test, are you concerned about being detected by the client? (Yay/Nay)</p>",
+          "hint": "",
+          "questionNo": 2,
+          "correct": true,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "Nay",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ***"
+        },
+        {
+          "question": "<p>Highly organised groups of skilled attackers are nowadays referred to as ...</p>",
+          "hint": "",
+          "questionNo": 3,
+          "correct": true,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "Advanced Persistent Threats",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ******** ********** *******"
+        }
+      ],
+      "uploadId": "",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Would vulnerability assessments prepare us to <b>detect</b> a real attacker on our networks? (Yay/Nay)",
+          "hint": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "<p>During a penetration test, are you concerned about being detected by the client? (Yay/Nay)</p>",
+          "hint": ""
+        },
+        {
+          "questionNo": 3,
+          "question": "<p>Highly organised groups of skilled attackers are nowadays referred to as ...</p>",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "taskTitle": "Red Team Engagements",
+      "taskType": "none",
+      "taskNo": 3,
+      "taskCreated": "2022-01-20T12:36:47.265Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "The goals of a red team engagement will often be referred to as flags or...",
+          "hint": "",
+          "questionNo": 1,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ***** ******"
+        },
+        {
+          "question": "<p>During a red team engagement, common methods used by attackers are emulated against the target. Such methods are usually called TTPs. What does TTP stand for?</p>",
+          "hint": "",
+          "questionNo": 2,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: *******, ********** *** **********"
+        },
+        {
+          "question": "<p>The main objective of a red team engagement is to detect as many vulnerabilities in as many hosts as possible (Yay/Nay)</p>",
+          "hint": "",
+          "questionNo": 3,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ***"
+        }
+      ],
+      "uploadId": "",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The goals of a red team engagement will often be referred to as flags or...",
+          "hint": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "<p>During a red team engagement, common methods used by attackers are emulated against the target. Such methods are usually called TTPs. What does TTP stand for?</p>",
+          "hint": ""
+        },
+        {
+          "questionNo": 3,
+          "question": "<p>The main objective of a red team engagement is to detect as many vulnerabilities in as many hosts as possible (Yay/Nay)</p>",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "taskTitle": "Teams and Functions of an Engagement",
+      "taskDesc": "<p>There are several factors and people involved within a red team engagement. Everyone will have their mindset and methodology to approach the engagement personnel; however, each engagement can be broken into three teams or cells. Below is a brief table illustrating each of the teams and a brief explanation of their responsibilities.</p>\n<p>\n</p><p></p><table class=\"table table-bordered\"><thead>\n<tr>\n<th>Team</th>\n<th>Definition</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Red Cell</td>\n<td style=\"text-align:left\">A red cell is the component that makes up the offensive portion of a red team engagement that simulates a given target's strategic and tactical responses.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Blue Cell</td>\n<td style=\"text-align:left\">The blue cell is the opposite side of red. It includes all the components defending a target network. The blue cell is typically comprised of blue team members, defenders, internal staff, and an organisation's management.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">White Cell</td>\n<td style=\"text-align:left\">Serves as referee between red cell activities and blue cell responses during an engagement. Controls the engagement environment/network. Monitors adherence to the ROE. Coordinates activities required to achieve engagement goals. Correlates red cell activities with defensive actions. Ensures the engagement is conducted without bias to either side.</td></tr></tbody></table>\n<p>Definitions are sourced from <a class=\"external-link\" href=\"https://redteam.guide/docs/definitions\" target=\"_blank\">redteam.guide</a>.</p>\n<p>These teams or cells can be broken down further into an engagement hierarchy.</p><p style=\"text-align:center\"><img src=\"https://tryhackme-images.s3.amazonaws.com/user-uploads/5ed5961c6276df568891c3ea/room-content/b90aad9dcdf10846c71ade3cca3d2e37.png\" /><br /></p>\n<p>Since this is a red team-oriented room, we will focus on the responsibilities of the red cell. Below is a table outlining the roles and responsibilities of members of the red team.</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>Role</th>\n<th>Purpose</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Red Team Lead</td>\n<td style=\"text-align:left\">Plans and organises engagements at a high level—delegates, assistant lead, and operators engagement assignments.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Red Team Assistant Lead</td>\n<td style=\"text-align:left\">Assists the team lead in overseeing engagement operations and operators. Can also assist in writing engagement plans and documentation if needed.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Red Team Operator</td>\n<td style=\"text-align:left\">Executes assignments delegated by team leads. Interpret and analyse engagement plans from team leads.</td>\n</tr>\n</tbody>\n</table><p><br />As with most red team functions, each team and company will have its own structure and roles for each team member. The above table only acts as an example of the typical responsibilities of each role.</p>",
+      "taskType": "none",
+      "taskNo": 4,
+      "taskCreated": "2022-01-20T12:47:41.946Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "What cell is responsible for the offensive operations of an engagement?",
+          "hint": "",
+          "questionNo": 1,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: *** ****"
+        },
+        {
+          "question": "What cell is the trusted agent considered part of?",
+          "hint": "",
+          "questionNo": 2,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ***** ****"
+        }
+      ],
+      "uploadId": "",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What cell is responsible for the offensive operations of an engagement?",
+          "hint": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "What cell is the trusted agent considered part of?",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "taskTitle": "Engagement Structure",
+      "taskDesc": "<p>A core function of the red team is adversary emulation. While not mandatory, it is commonly used to assess what a real adversary would do in an environment using their tools and methodologies. The red team can use various cyber kill chains to summarize and assess the steps and procedures of an engagement.</p>\n<p>The blue team commonly uses cyber kill chains to map behaviors and break down an adversaries movement. The red team can adapt this idea to map adversary TTPs (<strong>T</strong>actics, <strong>T</strong>echniques, and <strong>P</strong>rocedures) to components of an engagement.</p>\n<p>Many regulation and standardization bodies have released their cyber kill chain. Each kill chain follows roughly the same structure, with some going more in-depth or defining objectives differently. Below is a small list of standard cyber kill chains.</p>\n<ul>\n<li><a class=\"external-link\" href=\"https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html\" target=\"_blank\">Lockheed Martin Cyber Kill Chain</a></li>\n<li><a class=\"external-link\" href=\"https://unifiedkillchain.com/\" target=\"_blank\">Unified Kill Chain</a></li>\n<li><a class=\"external-link\" href=\"https://www.varonis.com/blog/cyber-kill-chain/\" target=\"_blank\">Varonis Cyber Kill Chain</a></li>\n<li><a class=\"external-link\" href=\"https://github.com/infosecn1nja/AD-Attack-Defense\" target=\"_blank\">Active Directory Attack Cycle</a></li>\n<li><a class=\"external-link\" href=\"https://attack.mitre.org/\" target=\"_blank\">MITRE ATT&amp;CK Framework</a></li>\n</ul>\n<p>In this room, we will commonly reference the \"Lockheed Martin Cyber Kill Chain.\" It is a more standardized kill chain than others and is very commonly used among red and blue teams.</p>\n<p>The Lockheed Martin kill chain focuses on a perimeter or external breach. Unlike other kill chains, it does not provide an in-depth breakdown of internal movement. You can think of this kill chain as a summary of all behaviors and operations present.</p>\n<p style=\"text-align:center\"><img src=\"https://tryhackme-images.s3.amazonaws.com/user-uploads/5ed5961c6276df568891c3ea/room-content/33e4c2dc2ab851b11654ae61953a7df1.png\" /><br /></p>\n<p>Components of the kill chain are broken down in the table below.</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>Technique</th>\n<th>Purpose</th>\n<th>Examples</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Reconnaissance</td>\n<td style=\"text-align:left\">Obtain information on the target</td>\n<td style=\"text-align:left\">Harvesting emails, OSINT</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Weaponization</td>\n<td style=\"text-align:left\">Combine the objective with an exploit. Commonly results in a deliverable payload.</td>\n<td style=\"text-align:left\">Exploit with backdoor, malicious office document</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Delivery</td>\n<td style=\"text-align:left\">How will the weaponized function be delivered to the target</td>\n<td style=\"text-align:left\">Email, web, USB</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Exploitation</td>\n<td style=\"text-align:left\">Exploit the target's system to execute code</td>\n<td style=\"text-align:left\">MS17-010, Zero-Logon, etc.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Installation</td>\n<td style=\"text-align:left\">Install malware or other tooling</td>\n<td style=\"text-align:left\">Mimikatz, Rubeus, etc.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Command &amp; Control</td>\n<td style=\"text-align:left\">Control the compromised asset from a remote central controller</td>\n<td style=\"text-align:left\">Empire, Cobalt Strike, etc.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Actions on Objectives</td>\n<td style=\"text-align:left\">Any end objectives: ransomware, data exfiltration, etc.</td>\n<td style=\"text-align:left\">Conti, LockBit2.0, etc.</td>\n</tr>\n</tbody>\n</table>",
+      "taskType": "none",
+      "taskNo": 5,
+      "taskCreated": "2022-01-20T12:50:57.208Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?",
+          "hint": "",
+          "questionNo": 1,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ************"
+        },
+        {
+          "question": "What technique's purpose is to exploit the target's system to execute code?",
+          "hint": "",
+          "questionNo": 2,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ************"
+        }
+      ],
+      "uploadId": "",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?",
+          "hint": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "What technique's purpose is to exploit the target's system to execute code?",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "taskTitle": "Overview of a Red Team Engagement",
+      "taskDesc": "<p>All the things we have discussed come together when performing a red team engagement. To better understand how the components and stakeholders interact, we will analyse a simplified engagement example. Navigate to the green \"View Site\" button to continue.</p><p><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\">Notice how the Cyber Kill Chain naturally aligns with the exercise: We start with a </span><strong>recon</strong><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\"> phase where we gather as much intel as we can about our target, followed by </span><strong>weaponization</strong><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\"> and </span><strong>delivery</strong><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\"> by sending a phishing email with a malicious attachment, continued by </span><strong>exploitation</strong><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\"> and </span><strong>installation</strong><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\"> phases when using local exploits to elevate privileges on BOB-PC and then installing tools on compromised hosts to dump password hashes and perform lateral movement, to finish with </span><strong>actions on objectives</strong><span style=\"color:rgb(14, 16, 26);background:transparent;margin-top:0pt;margin-bottom:0pt\"> where a connection to our target is finally made.</span></p>",
+      "taskType": "static-site",
+      "taskNo": 6,
+      "taskCreated": "2022-01-20T12:52:14.365Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "Click the \"View Site\" button and follow the example engagement to get the flag",
+          "hint": "",
+          "questionNo": 1,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": false,
+          "answerDesc": "Answer format: ***{**************}"
+        }
+      ],
+      "uploadId": "61f9031d437056aee2a48887",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Click the \"View Site\" button and follow the example engagement to get the flag",
+          "hint": ""
+        }
+      ],
+      "staticSites": [
+        {
+          "_id": "65aab224ded577dcb386aeab",
+          "title": "Red Team Fundamentals",
+          "url": "https://static-labs.tryhackme.cloud/sites/redteamfundamentals",
+          "autoOpen": false
+        }
+      ]
+    },
+    {
+      "taskTitle": "Conclusion",
+      "taskDesc": "A simplified overview of Red Team Engagements has been provided in this room. The main concepts, components and stakeholders have been introduced to gain a first understanding of such exercises. In the rooms that follow you will learn all of the planning behind a real engagement, as well as a lot of cool techniques a real attacker would use along the way, including how to use threat intelligence to your advantage, evade security mechanisms present in any modern host, perform lateral movement and try to avoid detection at all costs.",
+      "taskType": "none",
+      "taskNo": 7,
+      "taskCreated": "2022-01-20T12:52:30.347Z",
+      "taskDeadline": null,
+      "tasksInfo": [
+        {
+          "question": "Read the above and continue learning!",
+          "hint": "",
+          "questionNo": 1,
+          "correct": false,
+          "extraPoints": 0,
+          "attempts": 0,
+          "submission": "",
+          "noAnswer": true,
+          "answerDesc": "No answer needed"
+        }
+      ],
+      "uploadId": "",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Read the above and continue learning!",
+          "hint": ""
+        }
+      ]
+    }
+  ],
+  "totalTasks": 7,
+  "containsStaticSites": true
+}

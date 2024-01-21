@@ -1,0 +1,366 @@
+{
+    "module name": "Post Compromise",
+    "time": 8,
+    "rooms": [
+        {
+            "room name": "thelayoftheland",
+            "totalTasks": 10,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Deploy the VM",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Network Infrastructure",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Active Directory (AD) environment",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Users and Groups Management",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Host Security Solution #1",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Host Security Solution #2",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Network Security Solutions",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Applications and Services",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 10,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "enumerationpe",
+            "totalTasks": 7,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Purpose",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Linux Enumeration",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Windows Enumeration",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "DNS, SMB, and SNMP",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "More Tools for Windows",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "windowsprivesc20",
+            "totalTasks": 9,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Windows Privilege Escalation",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Harvesting Passwords from Usual Spots",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Other Quick Wins",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Abusing Service Misconfigurations",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Abusing dangerous privileges",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Abusing vulnerable software",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Tools of the Trade",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "windowslocalpersistence",
+            "totalTasks": 9,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Tampering With Unprivileged Accounts",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Backdooring Files",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Abusing Services",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Abusing Scheduled Tasks",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Logon Triggered Persistence",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Backdooring the Login Screen / RDP",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Persisting Through Existing Services",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "lateralmovementandpivoting",
+            "totalTasks": 8,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Moving Through the Network",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Spawning Processes Remotely",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Moving Laterally Using WMI",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Use of Alternate Authentication Material",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Abusing User Behaviour",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Port Forwarding",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "dataxexfilt",
+            "totalTasks": 11,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Network Infrastructure ",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Data Exfiltration",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Exfiltration using TCP socket",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Exfiltration using SSH",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Exfiltrate using HTTP(S)",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Exfiltration using ICMP",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "DNS Configurations",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Exfiltration over DNS",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "DNS Tunneling",
+                    "task number": 10,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 11,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        }
+    ]
+}

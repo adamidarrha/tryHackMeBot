@@ -1,0 +1,365 @@
+{
+    "module name": "Initial Access",
+    "time": 8,
+    "rooms": [
+        {
+            "room name": "redteamrecon",
+            "totalTasks": 8,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [
+                        {
+                            "question": "We suggest you start the AttackBox and experiment with every command and tool we demonstrate.",
+                            "question number": 1,
+                            "is already answered": true,
+                            "submission": "",
+                            "noAnswer": true
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                },
+                {
+                    "task name": "Taxonomy of Reconnaissance",
+                    "task number": 2,
+                    "questions": [
+                        {
+                            "question": "Ensure you have a clear understanding of the different types of recon activities before proceeding.",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": true
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                },
+                {
+                    "task name": "Built-in Tools",
+                    "task number": 3,
+                    "questions": [
+                        {
+                            "question": "When was\u00a0<code style=\"font-size:14px\">thmredteam.com</code>\u00a0created (registered)? (YYYY-MM-DD)",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>To how many IPv4 addresses does\u00a0<code style=\"font-size:14px\">clinic.thmredteam.com</code>\u00a0resolve?<br /></p>",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>To how many IPv6 addresses does\u00a0<code style=\"font-size:14px\">clinic.thmredteam.com</code>\u00a0resolve?<br /></p>",
+                            "question number": 3,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 3
+                },
+                {
+                    "task name": "Advanced Searching",
+                    "task number": 4,
+                    "questions": [
+                        {
+                            "question": "<p>How would you search using Google for\u00a0<code style=\"font-size:14px\">xls</code>\u00a0indexed for http://clinic.thmredteam.com?</p>",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>How would you search using Google for files with the word\u00a0<code style=\"font-size:14px\">passwords</code>\u00a0for http://clinic.thmredteam.com?</p>",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 2
+                },
+                {
+                    "task name": "Specialized Search Engines",
+                    "task number": 5,
+                    "questions": [
+                        {
+                            "question": "<p>What is the\u00a0<code style=\"font-size:14px\">shodan</code>\u00a0command to get your Internet-facing IP address?</p>",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                },
+                {
+                    "task name": "Recon-ng",
+                    "task number": 6,
+                    "questions": [
+                        {
+                            "question": "How do you start\u00a0<code style=\"font-size:14px\">recon-ng</code>\u00a0with the workspace\u00a0<code style=\"font-size:14px\">clinicredteam</code>?",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>How many modules with the name\u00a0<code style=\"font-size:14px\">virustotal</code>\u00a0exist?<br /></p>",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>There is a single module under\u00a0<code style=\"font-size:14px\">hosts-domains</code>. What is its name?<br /></p>",
+                            "question number": 3,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p><code style=\"font-size:14px\">censys_email_address</code>\u00a0is a module that \u201cretrieves email addresses from the TLS certificates for a company.\u201d Who is the author?<br /></p>",
+                            "question number": 4,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 4
+                },
+                {
+                    "task name": "Maltego",
+                    "task number": 7,
+                    "questions": [
+                        {
+                            "question": "What is the name of the transform that queries NIST\u2019s National Vulnerability Database?",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>What is the name of the project that offers a transform based on ATT&amp;CK?<br /></p>",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 2
+                },
+                {
+                    "task name": "Summary",
+                    "task number": 8,
+                    "questions": [
+                        {
+                            "question": "<div>The different tools and websites presented in this room provide the basics necessary to tackle further reconnaissance work.</div>",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": true
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                }
+            ]
+        },
+        {
+            "room name": "weaponization",
+            "totalTasks": 9,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Deploy the Windows Machine",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Windows Scripting Host - WSH",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "An HTML Application - HTA",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Visual Basic for Application - VBA",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "PowerShell - PSH",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Command And Control - (C2 Or C&amp;C) ",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Delivery Techniques",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Practice Arena",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "passwordattacks",
+            "totalTasks": 10,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Password Attacking Techniques",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Password Profiling #1 - <span class=\"badge badge-soft-danger size-16\">Default, Weak, Leaked, Combined , and Username Wordlists</span>",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Password Profiling #2 - <span class=\"badge badge-soft-danger size-16\">Keyspace Technique and CUPP</span>",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Offline Attacks - <span class=\"badge size-16\" style=\"background-color:rgba(200,148,252,.18);color:#c894fc\">Dictionary and Brute-Force</span>",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Offline Attacks - <span class=\"badge size-16\" style=\"background-color:rgba(148, 251, 171,.18);color:#94FBAB\">Rule-Based</span>",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Deploy the VM",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Online password attacks",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Password spray attack",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Summary",
+                    "task number": 10,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "phishingyl",
+            "totalTasks": 10,
+            "tasks": [
+                {
+                    "task name": "Brief",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Intro To Phishing Attacks",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Writing Convincing Phishing Emails",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Phishing Infrastructure",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Using GoPhish",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Droppers",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Choosing A Phishing Domain",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Using MS Office In Phishing",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Using Browser Exploits",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Phishing Practical",
+                    "task number": 10,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        }
+    ]
+}

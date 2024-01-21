@@ -1,0 +1,1315 @@
+{
+  "paths": [
+    {
+      "title": "Red Teaming",
+      "intro": "<p>The aim of this pathway is to show you how to emulate a potential adversary attack in complex environments. Going beyond penetration testing, you will learn to conduct successful Red Team engagements and challenge the defence capability of your clients.</p><p>After completing this pathway, you will have the advanced skills needed to pursue new career opportunities in offensive security.<br></p>",
+      "banner": "https://assets.tryhackme.com/img/paths/redteaming.svg",
+      "image": "https://assets.tryhackme.com/img/paths/redteaming-square.png",
+      "color": "#b50004",
+      "taskNo": 6,
+      "rooms": 36,
+      "hours": 48,
+      "description": "<p>Learn the skills needed to become a Red Team Operator</p><ul><li>Use diverse techniques for initial access</li><li>Enumerate and persist on targets`</li><li>Evade security solutions</li><li>Exploit Active Directory</li></ul>",
+      "summary": "This learning path will teach you how to execute adversary attack emulations as a Red Team Operator.",
+      "code": "redteaming",
+      "difficulty": {
+        "text": "Intermediate",
+        "css": "intermediate"
+      }
+    },
+    {
+      "title": "Introduction to Cyber Security",
+      "intro": "<div>Cyber Security is a huge topic, and it can be challenging to know where to start. This path will give you a hands-on introduction to different areas within cyber, including:</div><div><br></div><ul><li>Careers in Cyber Security</li><li>Offensive Security; hacking your first application</li><li>Defensive Security; defending against a live cyber attack</li><li>Exploring security topics in the industry</li></ul><div><p>Completing this learning path will give you the knowledge to kick start your cyber journey.</p></div>",
+      "banner": "https://assets.tryhackme.com/img/paths/introtocybersecurity.svg",
+      "image": "https://assets.tryhackme.com/img/paths/introtocybersecurity-square.svg",
+      "color": "#280e58",
+      "taskNo": 3,
+      "rooms": 8,
+      "hours": 24,
+      "description": "<p>Learn the core skills required to start a career in cyber security</p><p>\n</p><ul>\n<li>Learn about different careers in cyber</li>\n<li>Hack your first application</li>\n<li>Defend against a live cyber attack</li>\n<li>Explore security topics in the industry</li>\n</ul>",
+      "summary": "Get started in cyber security by hacking your first application and defending against a live cyber attack in a simulated lab environment. Learn about the different cyber careers, roles, and skills required to get your first job in the industry.",
+      "code": "introtocyber",
+      "difficulty": {
+        "text": "Easy",
+        "css": "easy"
+      }
+    },
+    {
+      "title": "Jr Penetration Tester",
+      "intro": "<p>This learning path covers the core technical skills that will allow you to succeed as a junior penetration tester. Upon completing this path, you will have the practical skills necessary to perform security assessments against web applications and enterprise infrastructure.</p>",
+      "banner": "https://assets.tryhackme.com/img/paths/jrpenetrationtester.svg",
+      "image": "https://assets.tryhackme.com/img/paths/jrpenetrationtester-square.svg",
+      "color": "#cf6011",
+      "taskNo": 8,
+      "rooms": 38,
+      "hours": 64,
+      "description": "<p>Learn the necessary skills to start a career as a penetration tester</p><p></p><ul><li>Pentesting methodologies and tactics</li><li>Enumeration, exploitation and reporting</li><li>Realistic hands-on hacking exercises</li><li>Learn security tools used in the industry</li></ul>",
+      "summary": "Learn the practical skills required to start your career as a professional penetration tester.",
+      "code": "jrpenetrationtester",
+      "difficulty": {
+        "text": "Intermediate",
+        "css": "intermediate"
+      }
+    },
+    {
+      "title": "Pre Security",
+      "intro": "<p>This learning path will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works.<br></p><p>The Pre-Security learning path is a beginner friendly and fun way to learn the basics. Your cyber security learning journey starts here!<br></p>",
+      "banner": "https://assets.tryhackme.com/img/paths/presecurity.svg",
+      "image": "https://assets.tryhackme.com/img/paths/presecurity-square.svg",
+      "color": "#daad09",
+      "taskNo": 5,
+      "rooms": 18,
+      "hours": 40,
+      "description": "<p>Before hacking something, you first need to understand the basics</p><ul><li style=\"text-align: left;\">Cyber security basics</li><li style=\"text-align: left;\">Networking basics and weaknesses<br></li><li style=\"text-align: left;\">The web and common attacks</li><li style=\"text-align: left;\">Learn to use the Linux operating system</li></ul>",
+      "summary": "Cyber security is often thought to be a magical process that can only be done by the elite, and TryHackMe is here to show you that's not the case. Anyone, with any experience level, can learn cyber security and this Pre-Security learning path is the place to start.",
+      "code": "presecurity",
+      "difficulty": {
+        "text": "Easy",
+        "css": "easy"
+      }
+    },
+    {
+      "title": "Cyber Defense",
+      "intro": "<p>The Cyber Defense path aims to give a broad introduction to the different areas necessary to detect and respond to threats. This path will be looking at the following areas:</p><ul><li>Getting Started</li><li>Threat and Vulnerability Management</li><li>Security Operations and Monitoring</li><li>Threat Emulation</li><li>Incident Response &amp; Forensics</li><li>Malware Analysis and Reverse Engineering</li></ul><p>Once you complete this path, you should have the fundamental components of detecting and responding to threats in a corporate environment and<span class=\"size\" style=\"font-size:1rem\" data-tomark-pass=\"\">&nbsp;using these core concepts to build your understanding of more complex topics within this field.</span></p><p><span class=\"size\" style=\"font-size:1rem\" data-tomark-pass=\"\"><strong>Note</strong>: This pathway is still under development and more rooms will be added as they become available.&nbsp;</span></p>",
+      "banner": "https://assets.tryhackme.com/img/paths/cyberdefense.svg",
+      "image": "https://assets.tryhackme.com/img/paths/cyberdefense-square.svg",
+      "color": "#335ca0",
+      "taskNo": 6,
+      "rooms": 34,
+      "hours": 48,
+      "description": "<p>Learn how to analyse and defend against real-world cyber threats/attacks</p><ul><li>Detect threats</li><li>Gather threat actor intelligence</li><li>Understand and emulate adversary TTPs</li><li>Identify and respond to incidents</li></ul>",
+      "summary": "In today's world, defending is just as important as attacking, if not more. Defensive Security has a lot of different areas and this path will give you a broad knowledge base that will allow you to specialise in any of the aforementioned blue team areas.",
+      "code": "blueteam",
+      "difficulty": {
+        "text": "Intermediate",
+        "css": "intermediate"
+      }
+    },
+    {
+      "title": "Attacking and Defending AWS",
+      "intro": "<p>Amazon Web Services is the most popular cloud service provider in the world offering hundreds of services. With a large number of businesses adopting cloud technologies like AWS, cyber practitioners must understand the security implications of moving to the cloud.<br><br>This pathway will give you hands on access with common misconfigurations across AWS environments and understand defensive mitigations to prevent these attacks including</p><ul><li>identifying, enumerating and exploiting overly permissive IAM users, roles and policies</li><li>exploring serverless infrastructure and common attack vectors present within these services</li><li>exploiting weaknesses in the most common AWS services including S3, EC2, VPC and more</li></ul>",
+      "banner": "https://assets.tryhackme.com/img/paths/aws-cloud-security-pathway-image.png",
+      "image": "https://assets.tryhackme.com/img/paths/aws-cloud-security-pathway-image.png",
+      "color": "#03adee",
+      "taskNo": 5,
+      "rooms": 20,
+      "hours": 40,
+      "description": "<p>Learn how attackers compromise AWS environments</p><ul><li style=\"text-align: left;\">Compromise EC2 instances</li><li style=\"text-align: left;\">Reduce the privileges of policies</li><li style=\"text-align: left;\">Abuse Lambda Authorizers</li><li style=\"text-align: left;\">Enumerate IAM users</li></ul>",
+      "summary": "Emulate attackers’ tools and techniques to compromise AWS services and understand defensive mitigations to prevent these attacks.",
+      "code": "attackinganddefendingaws",
+      "difficulty": {
+        "text": "Intermediate",
+        "css": "intermediate"
+      }
+    },
+    {
+      "title": "SOC Level 1",
+      "intro": "<p>In the Junior Security Analyst role, you will be a Triage Specialist. You will spend a significant portion of your time triaging or monitoring the event logs and alerts.<br><br>The responsibilities of a Junior Security Analyst or Tier 1 SOC Analyst include the following:</p><ul><li>Monitor and investigate alerts (most of the time, it's a 24x7 SOC operations environment)</li><li>Configure and manage security tools</li><li>Develop and implement IDS signatures</li><li>Escalate the security incidents to the Tier 2 and Team Lead if needed </li></ul>",
+      "banner": "https://assets.tryhackme.com/img/paths/SOCL1.svg",
+      "image": "https://assets.tryhackme.com/img/paths/SOCL1-square.png",
+      "color": "#03adee",
+      "taskNo": 7,
+      "rooms": 52,
+      "hours": 56,
+      "description": "<p>Learn the skills needed to work as a Junior Security Analyst in a Security Operations Centre</p><ul><li style=\"text-align: left;\">Detect and analyse traffic anomalies</li><li style=\"text-align: left;\">Monitor endpoints for threats</li><li style=\"text-align: left;\">Utilise SIEM tools to handle incidents</li><li style=\"text-align: left;\">Investigate forensic artefacts</li></ul>",
+      "summary": "This path will introduce a wide array of tools and real-life analysis scenarios, enabling you to become a successful Junior Security Analyst.",
+      "code": "soclevel1",
+      "difficulty": {
+        "text": "Easy",
+        "css": "easy"
+      }
+    },
+    {
+      "title": "Complete Beginner",
+      "intro": "<p>The beginner path aims to give a broad introduction to the different areas in Computer Security. This path will be looking at the following areas:</p><ul><li>Basic Linux - Get familiar with the linux command line.</li><li>Web Application Security - Learn web application security concepts through the OWASP Top 10</li><li>Network Security - Using essential tools like NMAP to enumerate infrastructure.</li><li>Scripting Challenges - Using Python and Bash to carry out different tasks.</li><li>Privilege Escalation</li></ul><p>Once you complete the beginner path, you should have learnt the fundamental knowledge for each specific area, and use these core concepts to build your understanding of more complex topics within the area.</p>",
+      "banner": "https://assets.tryhackme.com/img/paths/completebeginner.svg",
+      "image": "https://assets.tryhackme.com/img/paths/completebeginner-square.svg",
+      "color": "#1371d0",
+      "taskNo": 8,
+      "rooms": 34,
+      "hours": 64,
+      "description": "<p>Learn the core skills required to start a career in cyber security</p><ul><li>Web application security</li><li>Network security</li><li>Basic Linux</li><li>Scripting</li></ul>",
+      "summary": "Are you new to security and not sure how to start? This pathway will give you the core skills required to start your cyber security journey.",
+      "code": "beginner",
+      "difficulty": {
+        "text": "Novice",
+        "css": "novice"
+      }
+    },
+    {
+      "title": "SOC Level 2",
+      "intro": "<p>The SOC Level 2 path aims to help you succeed in your SOC career. It will help you transition into a Level 2 position or strengthen the core technical skills you need to perform well in your current position, using hands-on, practical, and realistic scenarios.</p><ul><li>Through realistic scenarios, you will practice log analysis in-depth and acquire hands-on experience using various SIEM platforms.&nbsp;</li><li>The path will also cover detection engineering topics, allowing you to troubleshoot and fix detection, alerting, and logging issues.&nbsp;</li><li>Finally, you will learn essential technical skills to perform advanced Blue Teaming tasks, such as threat hunting and emulation, incident response, and malware analysis.&nbsp;<br></li></ul>",
+      "banner": "https://assets.tryhackme.com/img/paths/SOCL2.svg",
+      "image": "https://assets.tryhackme.com/img/paths/SOCL2-square.svg",
+      "color": "#7da030",
+      "taskNo": 8,
+      "rooms": 48,
+      "hours": 64,
+      "description": "<div>Learn all the skills needed to take you to the next level in you SOC Analyst career.<br></div><ul>\n<li>Security operations</li>\n<li>Introductory incident response</li>\n<li>Malware analysis</li>\n<li>Threat hunting and threat emulation</li>\n</ul>",
+      "summary": "Completing this path will give you the technical skills required to succeed in and advance your Security Analyst career.",
+      "code": "soclevel2",
+      "difficulty": {
+        "text": "Intermediate",
+        "css": "intermediate"
+      }
+    },
+    {
+      "title": "Security Engineer",
+      "intro": "<p>Security Engineers are critical to every organization’s security.  Being a Security Engineer means designing secure systems, networks, and software, understanding threats and risks that can affect the organization, and being able to assist in responding to incidents. This path aims to give you an introduction to security engineering from various perspectives. No matter which speciality you choose as your cyber security career, understanding all elements is going to help you proactively identify and mitigate security risks, and play a crucial role in strengthening your company’s security posture. This path includes:</p><ol><li>Introductory topics, such as discussing career journeys available to Security Engineers and security fundamentals required to be successful in this role</li><li>Network, system, and software security engineering introductions, with a focus on security architecture, hardening, and understanding threats and vulnerabilities affecting these assets</li><li>Discussion on threats and risks, involving topics such as risk management and threat modelling, equipping you with the necessary analysis skills</li><li>Incident response skills important for Security Engineers, including understanding your role as a first responder and cyber crisis management.</li></ol>",
+      "banner": "https://assets.tryhackme.com/img/paths/security-engineer.svg",
+      "image": "https://assets.tryhackme.com/img/paths/security-engineer-square.svg",
+      "color": "#3e525b",
+      "taskNo": 5,
+      "rooms": 31,
+      "hours": 40,
+      "description": "<div>Learn the skills required to jumpstart your career in security engineering.<br></div><ul>\n<li>Network security engineering</li>\n<li>System security engineering</li>\n<li>Software security engineering</li>\n<li>Risk management & responding to incidents</li>\n</ul>",
+      "summary": "Explore different areas of Security Engineering! Use this path to understand the foundations of building secure systems, networks, and software.",
+      "code": "security-engineer-training",
+      "difficulty": {
+        "text": "Easy",
+        "css": "easy"
+      }
+    },
+    {
+      "title": "Offensive Pentesting",
+      "intro": "<p>No matter where you are, the skills and requirements for a penetration tester will be the same. You’ll be required to have a good understanding of various aspects within information security including web applications, networks and sometimes even low level technology like assembly. A good understanding of these technologies is essential to learning how to exploit them.</p><p><span>The aim of this path is to make you ready for real world penetration testing by teaching you how to use industry standard tools along with a methodology to find vulnerabilities in machines. By the time you complete this path, you will be well prepared for interviews and jobs as a penetration tester. To complete this path you should have a basic to medium understanding of computing.</span><br></p><p>You can use this pathway to help you acquire the skills needed to go and get certified by well known certifiers in the security industry.<br></p>",
+      "banner": "https://assets.tryhackme.com/img/illustrations/extension/oscp.png",
+      "image": "https://assets.tryhackme.com/img/paths/offensivepentesting.jpg",
+      "color": "#a72f2f",
+      "taskNo": 5,
+      "rooms": 28,
+      "hours": 40,
+      "description": "<p>Prepare yourself for real world penetration testing</p><ul><li>Utilise industry standard tools</li><li>Learn realistic attack scenarios</li><li>Train in offensive security</li><li>Supporting exercises &amp; resources</li></ul>",
+      "summary": "Acquire the skills needed to go and get certified by well known certifiers in the security industry. Learn about industry-used penetration testing tools and attain techniques to become a successful penetration tester.",
+      "code": "pentesting",
+      "difficulty": {
+        "text": "Intermediate",
+        "css": "intermediate"
+      }
+    },
+    {
+      "title": "CompTIA Pentest+",
+      "intro": "<p>This PenTest+ pathway allows individuals to practice the majority of practical skills required for the CompTIA PenTest+ exam. In this you will learn about</p><ul><li>Industry standard penetration testing tools</li><li>Identifying and exploiting different network services</li><li>Exploiting web applications through today’s most common vulnerabilities</li><li>Understanding Windows active directory and attacking Kerberos</li><li>Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)</li></ul><p><a href=\"https://www.comptia.org/certifications/pentest?rel=tryhackme\" target=\"_blank\">CompTIA PenTest+</a> is for cybersecurity professionals tasked with penetration testing and vulnerability management.<br></p>",
+      "banner": "https://assets.tryhackme.com/img/paths/comptiapentest.svg",
+      "image": "https://assets.tryhackme.com/img/paths/comptiapentest-square.svg",
+      "color": "#ec3429",
+      "taskNo": 4,
+      "rooms": 26,
+      "hours": 32,
+      "description": "<p>Learn the practical skills and prepare to ace the Pentest+ exam.</p><ul><li>Hands-on exercises aligning to PenTest+ exam objectives</li><li>Practical exam preparation to help you with the Performance Based Questions</li></ul>",
+      "summary": "CompTIA PenTest+ is for cybersecurity professionals tasked with penetration testing and vulnerability management. Use this pathway as supporting content and pre-preparation for the CompTIA certification exam. Upon completing this pathway get 10% off the exam.",
+      "code": "pentestplus",
+      "difficulty": {
+        "text": "Novice",
+        "css": "novice"
+      }
+    },
+    {
+      "title": "Web Fundamentals",
+      "intro": "<p>The aim of this path is to teach you how to attack web applications. To successfully attack and exploit web applications, you need to understand how they work. The first section (Web Fundamentals) will give you all the pre-requisite knowledge on this.&nbsp;</p><p>The second section (Security Tools) focuses on learning how to use Industry Standard tooling to interact with your targets.&nbsp;</p><p>The third section (Vulnerabilities) covers various vulnerabilities found in web applications today. This section will go over root causes of these vulnerabilities and give you hands on experience on exploiting them.</p><p>The final section (Practise Makes Perfect) will help you apply what you've learnt in previous sections.</p><p>After completing this path, you should be able to:</p><ul><li>understand how web applications work</li><li>utilise industry standard tooling when attacking web applications</li><li>explain and exploit common web vulnerabilities</li><li>apply this knowledge to other targets (be it within an interview or a professional web applications security assessment)</li></ul>",
+      "banner": "https://assets.tryhackme.com/img/paths/web.svg",
+      "image": "https://assets.tryhackme.com/img/paths/web-square.svg",
+      "color": "#3594af",
+      "taskNo": 4,
+      "rooms": 26,
+      "hours": 32,
+      "description": "<p style=\"text-align: center; \">A pathway to web application security</p><ul><li style=\"text-align: left;\">Understand web fundamentals</li><li style=\"text-align: left;\">Major vulnerabilities explained</li><li style=\"text-align: left;\">Learn industry-used tools</li><li style=\"text-align: left;\">Web application assessments</li></ul>",
+      "summary": "Learn how to attack web applications through interactive and real-world exercises.",
+      "code": "web",
+      "difficulty": {
+        "text": "Easy",
+        "css": "easy"
+      }
+    }
+  ],
+  "modules": [
+    {
+      "id": 1,
+      "title": "Burp Suite",
+      "summary": "Burp Suite is the industry standard tool for web application hacking, and is essential in any web penetration test.",
+      "moduleURL": "learn-burp-suite",
+      "image": "https://assets.tryhackme.com/img/modules/burp-suite.png",
+      "rooms": 5,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Metasploit",
+      "summary": "Metasploit is the most widely used exploitation framework. Learn how to use it and unlock its full potential.",
+      "moduleURL": "metasploit",
+      "image": "https://assets.tryhackme.com/img/modules/metasploit.png",
+      "rooms": 3,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Introduction to Web Hacking",
+      "summary": "Get hands-on, learn about and exploit some of the most popular web application vulnerabilities seen in the industry today.",
+      "moduleURL": "intro-to-web-hacking",
+      "image": "https://assets.tryhackme.com/img/modules/walking-the-web.png",
+      "rooms": 10,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Network Security",
+      "summary": "Learn the basics of passive and active network reconnaissance. Understand how common protocols work and their attack vectors.",
+      "moduleURL": "network-security",
+      "image": "https://assets.tryhackme.com/img/modules/network-security.png",
+      "rooms": 9,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Nmap",
+      "summary": "Learn how to leverage the Nmap network scanner to discover live hosts and open ports using basic and advanced scan options.",
+      "moduleURL": "nmap",
+      "image": "https://assets.tryhackme.com/img/modules/nmap.png",
+      "rooms": 4,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Initial Access",
+      "summary": "Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.",
+      "moduleURL": "red-team-initial-access",
+      "image": "https://assets.tryhackme.com/img/modules/initial-access.png",
+      "rooms": 4,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Phishing",
+      "summary": "Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques.",
+      "moduleURL": "phishing",
+      "image": "https://assets.tryhackme.com/img/modules/phishing.png",
+      "rooms": 5,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Red Team Fundamentals",
+      "summary": "Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.",
+      "moduleURL": "red-team-fundamentals",
+      "image": "https://assets.tryhackme.com/img/modules/red-team-fundamentals.png",
+      "rooms": 5,
+      "tags": [
+        "fundamental",
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Introduction to Offensive Security",
+      "summary": "Understand what Offensive Security entails, and practice breaking into computer systems by exploiting applications and networks.",
+      "moduleURL": "introduction-to-offensive-security",
+      "image": "https://assets.tryhackme.com/img/modules/intro-to-offensive.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental",
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Recent Threats",
+      "summary": "Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.",
+      "moduleURL": "recent-threats",
+      "image": "https://assets.tryhackme.com/img/modules/web-vulnerabilities.png",
+      "rooms": 14,
+      "tags": [
+        "offensive",
+        "defensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Introduction to Defensive Security",
+      "summary": "Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live cyber attack.",
+      "moduleURL": "introduction-to-defensive-security",
+      "image": "https://assets.tryhackme.com/img/modules/intro-to-defensive.png",
+      "rooms": 2,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Compromising Active Directory",
+      "summary": "Learn and exploit Active Directory networks through core security issues stemming from misconfigurations.",
+      "moduleURL": "hacking-active-directory",
+      "image": "https://assets.tryhackme.com/img/modules/hacking-windows.png",
+      "rooms": 7,
+      "tags": [
+        "fundamental",
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Host Evasions",
+      "summary": "Understand the techniques behind host-based security and bypass the most common security products in Windows operating systems.",
+      "moduleURL": "host-evasions",
+      "image": "https://tryhackme.com/img/modules/host-evasions.png",
+      "rooms": 11,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Introduction to AWS",
+      "summary": "Learn about the unique characteristics associated with cloud technologies and core fundamentals required to use AWS.",
+      "moduleURL": "introduction-to-aws",
+      "image": "https://assets.tryhackme.com/img/intro-to-aws.png",
+      "rooms": 2,
+      "tags": [
+        "aws-introduction"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Introduction to IAM",
+      "summary": "Understand the parts of the identity and access management service to set a good foundation for attacking and defending this service.",
+      "moduleURL": "introduction-to-iam",
+      "image": "https://assets.tryhackme.com/img/iam-module-icon.png",
+      "rooms": 7,
+      "tags": [
+        "iam-introduction"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Linux Fundamentals",
+      "summary": "Many servers and security tools use Linux. Learn how to use the Linux operating system, a critical skill in cyber security.",
+      "moduleURL": "linux-fundamentals",
+      "image": "https://assets.tryhackme.com/img/modules/linux-fundamentals.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "How The Web Works",
+      "summary": "To become a better hacker it's vital to understand the underlying functions of the world wide web and what makes it work.",
+      "moduleURL": "how-the-web-works",
+      "image": "https://assets.tryhackme.com/img/modules/application-vulnerabilities.png",
+      "rooms": 4,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Pentesting",
+      "summary": "Understand what a penetration test involves, including testing techniques and methodologies every pentester should know.",
+      "moduleURL": "introduction-to-offensive-pentesting",
+      "image": "https://assets.tryhackme.com/img/modules/intro-to-offensive-pentesting.png",
+      "rooms": 2,
+      "tags": [
+        "fundamental",
+        "offensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Privilege Escalation",
+      "summary": "Learn the fundamental techniques that will allow you to elevate account privileges in Linux and windows systems.",
+      "moduleURL": "privilege-escalation",
+      "image": "https://assets.tryhackme.com/img/modules/privilege-escalation-and-shells.png",
+      "rooms": 3,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Network Security Evasion",
+      "summary": "Learn how to bypass and evade different security solutions used in the industry, such as firewalls and IDS/IPS.",
+      "moduleURL": "network-security-evasion",
+      "image": "https://assets.tryhackme.com/img/modules/network-security-evasions.png",
+      "rooms": 3,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Post Compromise",
+      "summary": "Learn about the steps taken by an attacker right after gaining an initial foothold on a network.",
+      "moduleURL": "post-compromise",
+      "image": "https://tryhackme.com/img/modules/post-exploitation.png",
+      "rooms": 6,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cyber Defence Frameworks",
+      "summary": "Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies.",
+      "moduleURL": "cyber-defence-frameworks",
+      "image": "https://assets.tryhackme.com/img/modules/cyber-defence.png",
+      "rooms": 6,
+      "tags": [
+        "fundamental",
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Wireshark",
+      "summary": "Wireshark is the industry-standard tool for network protocol analysis and is essential in any kind of traffic investigation.",
+      "moduleURL": "wireshark",
+      "image": "https://assets.tryhackme.com/img/modules/wireshark.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Digital Forensics and Incident Response",
+      "summary": "Understand what forensic artifacts are present in the Windows and Linux Operating Systems, how to collect them, and leverage them to investigate security incidents.",
+      "moduleURL": "digital-forensics-and-incident-response",
+      "image": "https://assets.tryhackme.com/img/modules/digital-forensics-and-incident-response.png",
+      "rooms": 11,
+      "tags": [
+        "fundamental",
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Endpoint Security Monitoring",
+      "summary": "Monitoring activity on workstations is essential, as that’s where adversaries spend the most time trying to achieve their objectives.",
+      "moduleURL": "endpoint-security-monitoring",
+      "image": "https://assets.tryhackme.com/img/modules/endpoint-security-monitoring.png",
+      "rooms": 7,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Software Security",
+      "summary": "Understand how security integrates into the development process of an application, and learn how to mitigate common vulnerabilities in web applications.",
+      "moduleURL": "software-security",
+      "image": "https://assets.tryhackme.com/img/modules/software-security.png",
+      "rooms": 10,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Log Analysis",
+      "summary": "Log analysis is collecting, parsing and processing log files and turning data into actionable knowledge to detect security threats and anomalies and identify system performance issues.",
+      "moduleURL": "log-analysis",
+      "image": "https://assets.tryhackme.com/img/modules/log-analysis.png",
+      "rooms": 3,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Advanced Splunk",
+      "summary": "Understand advanced Splunk capabilities to search data for anomalies by creating complex search queries, applying regex, and creating presentable reports and dashboards. ",
+      "moduleURL": "advanced-splunk",
+      "image": "https://assets.tryhackme.com/img/modules/splunk.png",
+      "rooms": 5,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Advanced ELK",
+      "summary": "Learn about the main components of the ELK stack by going through the installation and configuring process and linking them together to form an effective log analysis utility. ",
+      "moduleURL": "advanced-elk",
+      "image": "https://assets.tryhackme.com/img/modules/elk.png",
+      "rooms": 4,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Threat Hunting",
+      "summary": "Understand the fundamentals of threat hunting, and learn how to build your own methodology for effective hunting across your infrastructure.",
+      "moduleURL": "threat-hunting",
+      "image": "https://assets.tryhackme.com/img/modules/threat-hunting.png",
+      "rooms": 6,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Threat Emulation",
+      "summary": "Understand the core concepts of threat emulation and learn how to execute adversarial activity through different threat emulation frameworks.",
+      "moduleURL": "threat-emulation",
+      "image": "https://assets.tryhackme.com/img/modules/threat-emulation-socl2.png",
+      "rooms": 6,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Incident Response",
+      "summary": "Understand the mindset behind effective response on security incidents, and apply them through real-world tactics and techniques.",
+      "moduleURL": "incident-response",
+      "image": "https://assets.tryhackme.com/img/modules/incident-response.png",
+      "rooms": 6,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Malware Analysis",
+      "summary": "Explore the world of malware and analyse how malware can infect systems and cause damage.",
+      "moduleURL": "malware-analysis",
+      "image": "https://assets.tryhackme.com/img/modules/malware-analysis-socl2.png",
+      "rooms": 11,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Secure Software Development",
+      "summary": "This module introduces DevSecOps, DevOps, and SDLC. Learn to integrate security into software development for enhanced protection.",
+      "moduleURL": "secure-software-development",
+      "image": "https://assets.tryhackme.com/img/modules/secure-software-development.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental",
+        "offensive"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Network Exploitation Basics",
+      "summary": "Understand, enumerate and attack various networking services in real-world environments.",
+      "moduleURL": "intro-to-networking",
+      "image": "https://assets.tryhackme.com/img/modules/intro-to-networking.png",
+      "rooms": 4,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Vulnerability Research",
+      "summary": "Familiarise yourself with the skills, research methods, and resources used to exploit vulnerable applications and systems.",
+      "moduleURL": "vulnerability-research",
+      "image": "https://assets.tryhackme.com/img/modules/vuln-bug-1.png",
+      "rooms": 3,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cyber Security Awareness",
+      "summary": "Become cyber aware and protect yourself from common security attacks by working through interactive real-world scenarios.",
+      "moduleURL": "cyber-security-awareness",
+      "image": "https://assets.tryhackme.com/img/modules/security-awareness.png",
+      "rooms": 2,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cyber Threat Intelligence",
+      "summary": "Learn about identifying and using available security knowledge to mitigate and manage potential adversary actions.",
+      "moduleURL": "cyber-threat-intelligence",
+      "image": "https://assets.tryhackme.com/img/modules/cyber-threat-intelligence.png",
+      "rooms": 5,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Network Security and Traffic Analysis",
+      "summary": "Understand the core concepts of Network Security and Traffic Analysis to spot and probe network anomalies using industry tools and techniques.",
+      "moduleURL": "network-security-and-traffic-analysis",
+      "image": "https://assets.tryhackme.com/img/modules/network-security-traffic-analysis.png",
+      "rooms": 11,
+      "tags": [
+        "fundamental",
+        "defensive"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Security Information and Event Management",
+      "summary": "Understand how SIEM works and get comfortable creating simple and advanced search queries to look for specific answers from the ingested logs.",
+      "moduleURL": "security-information-event-management",
+      "image": "https://assets.tryhackme.com/img/modules/security-information-event-management.png",
+      "rooms": 7,
+      "tags": [
+        "fundamental",
+        "defensive"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Attacking and Defending Core Services",
+      "summary": "Explore security misconfiguration on commonly used AWS services, including EC2, S3, VPC and more",
+      "moduleURL": "attacking-defending-core-services",
+      "image": "https://assets.tryhackme.com/img/core-services-icon.png",
+      "rooms": 6,
+      "tags": [
+        "aws-core-services"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Threats and Risks",
+      "summary": "Understand how security engineers help their organisations to identify threats and risks to better manage them.",
+      "moduleURL": "threats-and-risks",
+      "image": "https://assets.tryhackme.com/img/modules/threats-and-risks.png",
+      "rooms": 4,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Network and System Security",
+      "summary": "Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.",
+      "moduleURL": "network-and-system-security",
+      "image": "https://assets.tryhackme.com/img/modules/network-and-system-security.png",
+      "rooms": 9,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Managing Incidents",
+      "summary": "Understand how security engineers help their organisations during an incident to reduce the impact of the incident.",
+      "moduleURL": "managing-incidents",
+      "image": "https://assets.tryhackme.com/img/modules/managing-incidents.png",
+      "rooms": 4,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Web Hacking Fundamentals",
+      "summary": "Understand the core security issues with web applications, and learn how to exploit them using industry tools and techniques.",
+      "moduleURL": "web-hacking-1",
+      "image": "https://assets.tryhackme.com/img/modules/web-hacking-fundamentals.png",
+      "rooms": 7,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Attacking and Defending Serverless",
+      "summary": "Serverless technologies are popular when designing infrastructure. Work with various AWS components to understand how they can be exploited.",
+      "moduleURL": "attacking-defending-serverless",
+      "image": "https://assets.tryhackme.com/img/serverless-icon.png",
+      "rooms": 3,
+      "tags": [
+        "aws-serverless"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cryptography",
+      "summary": "Cryptography is essential in security. Learn how its used to preserve integrity and confidentiality of sensitive information.",
+      "moduleURL": "cryptography",
+      "image": "https://assets.tryhackme.com/img/modules/cryptography.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Cyber Security",
+      "summary": "Understand what is offensive and defensive security, and learn about careers available in cyber.",
+      "moduleURL": "introduction-to-cyber-security",
+      "image": "https://assets.tryhackme.com/img/modules/intro-to-security.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "IAM Privilege Escalation",
+      "summary": "Put your understanding of IAM to practice by covering key concepts required to enumerate, exploit and persist across IAM.",
+      "moduleURL": "iam-privilege-escalation",
+      "image": "https://assets.tryhackme.com/img/iam-priv-esc-icon.png",
+      "rooms": 2,
+      "tags": [
+        "iam-privilege-escalation"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Security Engineering",
+      "summary": "Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.",
+      "moduleURL": "introduction-to-security-engineering",
+      "image": "https://assets.tryhackme.com/img/modules/introduction-to-security-engineering.png",
+      "rooms": 4,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Windows Exploitation Basics",
+      "summary": "Hacking Windows is often daunting. Grasp the fundamentals of core Windows concepts and Active Directory vulnerabilities.",
+      "moduleURL": "hacking-windows-1",
+      "image": "https://assets.tryhackme.com/img/modules/hacking-windows.png",
+      "rooms": 7,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Planning and Scoping",
+      "summary": "Start your journey by learning about penetration testing fundamentals and red team engagements.",
+      "moduleURL": "planning-and-scoping",
+      "image": "https://assets.tryhackme.com/img/modules/web-vulnerabilities.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Tools and Code Analysis",
+      "summary": "Explore penetration testing tools like Metasploit, Wireshark, and Burp Suite. Furthermore, discover using Python for penetration testing.",
+      "moduleURL": "tools-and-code-analysis",
+      "image": "https://assets.tryhackme.com/img/modules/tools-and-code-analysis.png",
+      "rooms": 6,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Information Gathering and Vulnerability Scanning",
+      "summary": "Explore passive and active reconnaissance, and discover how to use Nmap to collect information about your targets efficiently.",
+      "moduleURL": "information-gathering-and-vulnerability-scanning",
+      "image": "https://assets.tryhackme.com/img/modules/application-vulnerabilities.png",
+      "rooms": 5,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Attacks and Exploits",
+      "summary": "Discover the various attacks and exploits that can be used against web applications, MS Windows, MS Active Directory, and Linux.",
+      "moduleURL": "attacks-and-exploits",
+      "image": "https://assets.tryhackme.com/img/modules/basic-computer-exploitation.png",
+      "rooms": 12,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Shells and Privilege Escalation",
+      "summary": "Once you have initial access on a machine, learn how to escalate your account privileges to root.",
+      "moduleURL": "privilege-escalation-and-shells",
+      "image": "https://assets.tryhackme.com/img/modules/privilege-escalation-and-shells.png",
+      "rooms": 3,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Basic Computer Exploitation",
+      "summary": "Strengthen your skills by exploiting a range of different applications and services, from networking to web to privilege escalation.",
+      "moduleURL": "basic-computer-exploitation",
+      "image": "https://assets.tryhackme.com/img/modules/basic-computer-exploitation.png",
+      "rooms": 4,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Detection Engineering",
+      "summary": "Understand various threat detection methodologies, rule syntax and tools, and learn how to apply them in a SOC environment.",
+      "moduleURL": "detection-engineering",
+      "image": "https://assets.tryhackme.com/img/modules/detection-engineering.png",
+      "rooms": 7,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Threat and Vulnerability Management",
+      "summary": "Identify how attackers are developing their techniques to use in your defensive strategy.",
+      "moduleURL": "threat-and-vulnerability-management",
+      "image": "https://assets.tryhackme.com/img/modules/threat-and-vulnerability-management.png",
+      "rooms": 6,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Security Operations & Monitoring",
+      "summary": "Learn how to configure and utilise tooling to ensure that suspicious activity is quickly identified and dealt with in your environment.",
+      "moduleURL": "security-operations-and-monitoring",
+      "image": "https://assets.tryhackme.com/img/modules/security_operations_and_monitoring.png",
+      "rooms": 7,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Threat Emulation",
+      "summary": "The best way to understand how attackers work is to get hands on experience with their techniques.",
+      "moduleURL": "threat-emulation-old",
+      "image": "https://assets.tryhackme.com/img/modules/threat-emulation.png",
+      "rooms": 2,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Incident Response and Forensics",
+      "summary": "Incidents are inevitable. Learn how to identify and respond to them.",
+      "moduleURL": "incident-response-and-forensics",
+      "image": "https://assets.tryhackme.com/img/modules/incident-response-and-forensics.png",
+      "rooms": 7,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Snort",
+      "summary": "Snort is the most widely used Open Source Intrusion Detection & Prevention System and is essential in defining malicious network activity.",
+      "moduleURL": "snort",
+      "image": "https://assets.tryhackme.com/img/modules/snort.png",
+      "rooms": 3,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Malware Analysis",
+      "summary": "Analyse malicious files to prevent malicious actions and identify attacks.",
+      "moduleURL": "malware-analysis-old",
+      "image": "https://assets.tryhackme.com/img/modules/malware-analysis.png",
+      "rooms": 5,
+      "tags": [
+        "defensive"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Network Fundamentals",
+      "summary": "Learn the core concepts of how computers communicate with each other and types of network weaknesses.",
+      "moduleURL": "network-fundamentals",
+      "image": "https://assets.tryhackme.com/img/modules/network-vulnerabilities.png",
+      "rooms": 5,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Windows Fundamentals",
+      "summary": "Get hands-on access to Windows and it's security controls. These basics will help you in identifying, exploiting and defending Windows.",
+      "moduleURL": "windows-fundamentals",
+      "image": "https://assets.tryhackme.com/img/modules/hacking-windows2.png",
+      "rooms": 3,
+      "tags": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Scripting for Pentesters",
+      "summary": "Learn to use PowerShell and Python in different stages of a penetration test and take your pentesting craft to the next level.",
+      "moduleURL": "scripting-for-pentesters",
+      "image": "https://assets.tryhackme.com/img/modules/scripting-for-pentesters.png",
+      "rooms": 4,
+      "tags": [
+        "offensive"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "AoC 2023 Side Quest",
+      "summary": "Help the Yeti accomplish his 2023 plans and find its way back into the Best Festival Company.",
+      "moduleURL": "aoc-2023-side-quest",
+      "image": "https://assets.tryhackme.com/img/modules/aoc-2023-side-quest.png",
+      "rooms": 5,
+      "tags": []
+    }
+  ],
+  "practice": {
+    "red": [
+      {
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/222b3e855f88a482c1267748f76f90e0.jpeg",
+        "description": "Penetration Testing Challenge",
+        "title": "Internal",
+        "code": "internal"
+      },
+      {
+        "code": "netsecchallenge",
+        "title": "Net Sec Challenge",
+        "description": "Practice the skills you have learned in the Network Security module.",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5a1f33f79fce3569a2bc247468713c93.png"
+      },
+      {
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2048656e072dd7caffe455ae2d44b65f.png",
+        "description": "What happens when some broke CompSci students make a password manager?",
+        "title": "Overpass",
+        "code": "overpass"
+      },
+      {
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/47d2d3ade1795f81a155d0aca6e4da96.jpeg",
+        "description": "A Rick and Morty CTF. Help turn Rick back into a human!",
+        "title": "Pickle Rick",
+        "code": "picklerick"
+      }
+    ],
+    "blue": [
+      {
+        "code": "c2carnage",
+        "title": "Carnage",
+        "description": "Apply your analytical skills to analyze the malicious network traffic using Wireshark. ",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6ba48271aa3457f8488e1029031ed058.png"
+      },
+      {
+        "code": "contiransomwarehgh",
+        "title": "Conti",
+        "description": "An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server. ",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/efe12f2572d7ed0e3d94c37c00560bdc.png"
+      },
+      {
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/355f44b808c9981ee344fd9a32738eb3.png",
+        "description": "In the previous challenge you performed a brief analysis. Within this challenge, you will take a deeper dive into the attack. ",
+        "title": "Investigating Windows 2.0",
+        "code": "investigatingwindows2"
+      },
+      {
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/fc070d077593dac55f78281d8e97b9ef.png",
+        "description": "Part of the Blue Primer series. This room is based on version 2 of the Boss of the SOC (BOTS) competition by Splunk.",
+        "title": "Splunk 2",
+        "code": "splunk2gcd5"
+      }
+    ],
+    "recommended": {
+      "user": true,
+      "data": {
+        "success": true,
+        "rooms": [
+          {
+            "image": "https://tryhackme-images.s3.amazonaws.com/room-icons/7a8797ae59733f2a72f0e8a8748be128.jpeg",
+            "title": "Mr Robot CTF",
+            "description": "Based on the Mr. Robot show, can you root this box?",
+            "code": "mrrobot",
+            "users": 108487,
+            "tags": [
+              "mrrobot",
+              "root",
+              "beginner"
+            ],
+            "type": "challenge",
+            "difficulty": "medium",
+            "userCompleted": false,
+            "upVotes": 4325,
+            "created": "2018-11-27T18:29:56.904Z",
+            "published": "2018-11-27T18:29:56.904Z",
+            "freeToUse": true,
+            "businessOnly": false,
+            "creatorId": "5bec5dfd73790a7d06282266",
+            "headerImage": "https://i.imgur.com/Bo6jUIK.png"
+          },
+          {
+            "image": "https://tryhackme-images.s3.amazonaws.com/room-icons/f38b047a2a7089147766099dffeb8a5d.png",
+            "title": "Attacktive Directory",
+            "description": "99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?",
+            "code": "attacktivedirectory",
+            "users": 95214,
+            "tags": [
+              "Active Directory",
+              "AD",
+              "Kerberos",
+              "SMB",
+              "windows"
+            ],
+            "type": "challenge",
+            "difficulty": "medium",
+            "userCompleted": false,
+            "upVotes": 3414,
+            "created": "2019-11-26T00:47:47.175Z",
+            "published": "2020-04-07T19:19:55.757Z",
+            "freeToUse": true,
+            "businessOnly": false,
+            "creatorId": "5c549500924ec576f953d9fc",
+            "headerImage": "https://i.imgur.com/Z8zgznd.png"
+          },
+          {
+            "image": "https://tryhackme-images.s3.amazonaws.com/room-icons/fdba6eaf85513262b2a9b12875b0f342.jpeg",
+            "title": "Wonderland",
+            "description": "Fall down the rabbit hole and enter wonderland.",
+            "code": "wonderland",
+            "users": 38414,
+            "tags": [
+              "ctf",
+              "alice in wonderland",
+              "privesc",
+              "linux",
+              "web",
+              "weekly challenge",
+              "wonderland",
+              "NinjaJc01"
+            ],
+            "type": "challenge",
+            "difficulty": "medium",
+            "userCompleted": false,
+            "upVotes": 1708,
+            "created": "2020-06-05T02:34:54.810Z",
+            "published": "2020-06-05T20:34:35.765Z",
+            "freeToUse": true,
+            "businessOnly": false,
+            "creatorId": "5d96207dd832c106398e2267",
+            "headerImage": "https://i.imgur.com/q9N2UUs.png"
+          },
+          {
+            "image": "https://tryhackme-images.s3.amazonaws.com/room-icons/5a1f33f79fce3569a2bc247468713c93.png",
+            "title": "Net Sec Challenge",
+            "description": "Practice the skills you have learned in the Network Security module.",
+            "code": "netsecchallenge",
+            "users": 42162,
+            "tags": [
+              "security",
+              "telnet",
+              "nmap",
+              "hydra"
+            ],
+            "type": "challenge",
+            "difficulty": "medium",
+            "userCompleted": false,
+            "upVotes": 1591,
+            "created": "2021-09-20T08:08:14.764Z",
+            "published": "2021-10-12T16:24:28.761Z",
+            "freeToUse": false,
+            "businessOnly": false,
+            "creatorId": "5f04259cf9bf5b57aed2c476",
+            "headerImage": "https://assets.tryhackme.com/room-banners/netsecmodule.png"
+          }
+        ],
+        "paginator": {
+          "totalDocs": 214,
+          "totalInPage": 4,
+          "limit": 4,
+          "page": 1,
+          "totalPages": 54,
+          "hasPrevPage": false,
+          "hasNextPage": true,
+          "prevPage": null,
+          "nextPage": 2
+        }
+      }
+    }
+  },
+  "recentThreats": [
+    {
+      "code": "solar",
+      "title": "Solar, exploiting log4j",
+      "description": "Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.",
+      "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ea9887327658c30d21fdbcc63a2b9691.png"
+    },
+    {
+      "code": "pwnkit",
+      "title": "Pwnkit: CVE-2021-4034",
+      "description": "Interactive lab for exploiting and remediating Pwnkit (CVE-2021-4034) in the Polkit package",
+      "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/74e0f54fbdb415de32d590fe9af9816c.png"
+    },
+    {
+      "code": "dirtypipe",
+      "title": "Dirty Pipe: CVE-2022-0847",
+      "description": "Interactive lab for exploiting Dirty Pipe (CVE-2022-0847) in the Linux Kernel",
+      "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/dc199f5811f650866479991882430b1c.png"
+    },
+    {
+      "code": "printnightmarehpzqlp8",
+      "title": "PrintNightmare",
+      "description": "Learn about the vulnerability known as PrintNightmare (CVE-2021-1675) and (CVE-2021-34527).",
+      "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/01c0ff183a9d9767f90b03ca14b9a24d.png"
+    },
+    {
+      "code": "spring4shell",
+      "title": "Spring4Shell: CVE-2022-22965",
+      "description": "Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in the Java Spring Framework",
+      "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/45b3fa32cb65b9475a47f3a3d6857e49.png"
+    },
+    {
+      "code": "cve202226923",
+      "title": "CVE-2022-26923",
+      "description": "Walkthrough on the exploitation of CVE-2022-26923, a vulnerability in AD Certificate Services.",
+      "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ce328823c491aaaa63f42c81977af7a1.png"
+    }
+  ],
+  "network": {
+    "success": true,
+    "rooms": [
+      {
+        "title": "Holo",
+        "description": "Holo is an Active Directory (AD) and Web-App attack lab that aims to teach core web attack vectors and more advanced AD attack techniques. This network simulates an external penetration test on a corporate network.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 10,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": false,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/79023e1ed4c207bc52b7dfee208c80a5.png",
+        "code": "hololive"
+      },
+      {
+        "title": "Wreath",
+        "description": "Learn how to pivot through a network by compromising a public facing web machine and tunnelling your traffic to access other machines in Wreath's network. (Streak limitation only for non-subscribed users)",
+        "streak": {
+          "enabled": true,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          },
+          "accessTime": 10
+        },
+        "freeToUse": true,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/ffa81460a5c1487dd7bb43d0ca0735a1.png",
+        "code": "wreath"
+      },
+      {
+        "title": "Breaching Active Directory",
+        "description": "This network covers techniques and tools that can be used to acquire that first set of AD credentials that can then be used to enumerate AD.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 4,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": true,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/a936e45c948fb10f2eec7768c7a32e66.png",
+        "code": "breachingad"
+      },
+      {
+        "title": "Enumerating Active Directory",
+        "description": "This room covers various Active Directory enumeration techniques, their use cases as well as drawbacks.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 10,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": true,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/aab8209b616e6e146df6ceaf7bda48d5.png",
+        "code": "adenumeration"
+      },
+      {
+        "title": "Lateral Movement and Pivoting",
+        "description": "Learn about common techniques used to move laterally across a Windows network.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 3,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": false,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/2c164794fa55d4805f01fbc5eef79017.png",
+        "code": "lateralmovementandpivoting"
+      },
+      {
+        "title": "Exploiting Active Directory",
+        "description": "Learn common AD exploitation techniques that can allow you to reach your goal in an AD environment.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 3,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": false,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/9975bcee38db4eff87972247f8895e40.png",
+        "code": "exploitingad"
+      },
+      {
+        "title": "Persisting Active Directory",
+        "description": "Learn about common Active Directory persistence techniques that can be used post-compromise to ensure the blue team will not be able to kick you out during a red team exercise.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 4,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": false,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/df8f584cce98cbf00bbd8a4da5cc4a09.png",
+        "code": "persistingad"
+      },
+      {
+        "title": "Bandit",
+        "description": "You’ve been asked to exploit all the vulnerabilities on multiple systems.",
+        "streak": {
+          "enabled": true,
+          "accessTime": 4,
+          "number": {
+            "freeUser": 7,
+            "subUser": -1
+          }
+        },
+        "freeToUse": true,
+        "imageUrl": "https://tryhackme-images.s3.amazonaws.com/room-icons/602513b69ffd0bb6e7d2dd7899816661.png",
+        "code": "bandit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "username": "tryhackme",
+  "code": "redteaming",
+  "title": "Red Teaming",
+  "description": "<p>Learn the skills needed to become a Red Team Operator</p><ul><li>Use diverse techniques for initial access</li><li>Enumerate and persist on targets`</li><li>Evade security solutions</li><li>Exploit Active Directory</li></ul>",
+  "color": "#b50004",
+  "image": "https://assets.tryhackme.com/img/paths/redteaming-square.png",
+  "banner": "https://assets.tryhackme.com/img/paths/redteaming.svg",
+  "intro": "<p>The aim of this pathway is to show you how to emulate a potential adversary attack in complex environments. Going beyond penetration testing, you will learn to conduct successful Red Team engagements and challenge the defence capability of your clients.</p><p>After completing this pathway, you will have the advanced skills needed to pursue new career opportunities in offensive security.<br></p>",
+  "contentType": "modules",
+  "public": true,
+  "tasks": [
+    {
+      "id": "622737dc437056aee23e1359",
+      "title": "Red Team Fundamentals",
+      "moduleURL": "red-team-fundamentals",
+      "time": 8,
+      "overview": "Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.",
+      "image": "https://assets.tryhackme.com/img/modules/red-team-fundamentals.png",
+      "outcomes": "",
+      "rooms": [
+        {
+          "code": "redteamfundamentals",
+          "information": null,
+          "order": 1
+        },
+        {
+          "code": "redteamengagements",
+          "information": null,
+          "order": 2
+        },
+        {
+          "code": "redteamthreatintel",
+          "information": null,
+          "order": 3
+        },
+        {
+          "code": "opsec",
+          "information": null,
+          "order": 4
+        },
+        {
+          "code": "introtoc2",
+          "information": null,
+          "order": 5
+        }
+      ],
+      "taskNo": 1
+    },
+    {
+      "id": "61bb4f0e437056aee23ba4cf",
+      "title": "Initial Access",
+      "moduleURL": "red-team-initial-access",
+      "time": 8,
+      "overview": "Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.",
+      "image": "https://assets.tryhackme.com/img/modules/initial-access.png",
+      "outcomes": "",
+      "rooms": [
+        {
+          "code": "redteamrecon",
+          "information": null,
+          "order": 1
+        },
+        {
+          "code": "weaponization",
+          "information": null,
+          "order": 2
+        },
+        {
+          "code": "passwordattacks",
+          "information": null,
+          "order": 3
+        },
+        {
+          "code": "phishingyl",
+          "information": null,
+          "order": 4
+        }
+      ],
+      "taskNo": 2
+    },
+    {
+      "id": "62fb6d8f437056aee2b89b6d",
+      "title": "Post Compromise",
+      "moduleURL": "post-compromise",
+      "time": 8,
+      "overview": "Learn about the steps taken by an attacker right after gaining an initial foothold on a network.",
+      "image": "https://tryhackme.com/img/modules/post-exploitation.png",
+      "outcomes": "",
+      "rooms": [
+        {
+          "code": "thelayoftheland",
+          "information": null,
+          "order": 1
+        },
+        {
+          "code": "enumerationpe",
+          "information": null,
+          "order": 2
+        },
+        {
+          "code": "windowsprivesc20",
+          "information": null,
+          "order": 3
+        },
+        {
+          "code": "windowslocalpersistence",
+          "information": null,
+          "order": 4
+        },
+        {
+          "code": "lateralmovementandpivoting",
+          "information": null,
+          "order": 5
+        },
+        {
+          "code": "dataxexfilt",
+          "information": null,
+          "order": 6
+        }
+      ],
+      "taskNo": 3
+    },
+    {
+      "id": "63123002437056aee23a1f3c",
+      "title": "Host Evasions",
+      "moduleURL": "host-evasions",
+      "time": 8,
+      "overview": "Understand the techniques behind host-based security and bypass the most common security products in Windows operating systems.",
+      "image": "https://tryhackme.com/img/modules/host-evasions.png",
+      "outcomes": "",
+      "rooms": [
+        {
+          "code": "windowsinternals",
+          "information": null,
+          "order": 1
+        },
+        {
+          "code": "windowsapi",
+          "information": null,
+          "order": 2
+        },
+        {
+          "code": "abusingwindowsinternals",
+          "information": null,
+          "order": 3
+        },
+        {
+          "code": "introtoav",
+          "information": null,
+          "order": 4
+        },
+        {
+          "code": "avevasionshellcode",
+          "information": null,
+          "order": 5
+        },
+        {
+          "code": "obfuscationprinciples",
+          "information": null,
+          "order": 6
+        },
+        {
+          "code": "signatureevasion",
+          "information": null,
+          "order": 7
+        },
+        {
+          "code": "bypassinguac",
+          "information": null,
+          "order": 8
+        },
+        {
+          "code": "runtimedetectionevasion",
+          "information": null,
+          "order": 9
+        },
+        {
+          "code": "monitoringevasion",
+          "information": null,
+          "order": 10
+        },
+        {
+          "code": "livingofftheland",
+          "information": null,
+          "order": 11
+        }
+      ],
+      "taskNo": 4
+    },
+    {
+      "id": "6275542a437056aee20d1093",
+      "title": "Network Security Evasion",
+      "moduleURL": "network-security-evasion",
+      "time": 8,
+      "overview": "Learn how to bypass and evade different security solutions used in the industry, such as firewalls and IDS/IPS.",
+      "image": "https://assets.tryhackme.com/img/modules/network-security-evasions.png",
+      "outcomes": "",
+      "rooms": [
+        {
+          "code": "redteamnetsec",
+          "information": null,
+          "order": 1
+        },
+        {
+          "code": "redteamfirewalls",
+          "information": null,
+          "order": 2
+        },
+        {
+          "code": "sandboxevasion",
+          "information": null,
+          "order": 3
+        }
+      ],
+      "taskNo": 5
+    },
+    {
+      "id": "62c491d4437056aee2c41ff8",
+      "title": "Compromising Active Directory",
+      "moduleURL": "hacking-active-directory",
+      "time": 8,
+      "overview": "Learn and exploit Active Directory networks through core security issues stemming from misconfigurations.",
+      "image": "https://assets.tryhackme.com/img/modules/hacking-windows.png",
+      "outcomes": "",
+      "rooms": [
+        {
+          "code": "winadbasics",
+          "information": null,
+          "order": 1
+        },
+        {
+          "code": "breachingad",
+          "information": null,
+          "order": 2
+        },
+        {
+          "code": "adenumeration",
+          "information": null,
+          "order": 3
+        },
+        {
+          "code": "lateralmovementandpivoting",
+          "information": null,
+          "order": 4
+        },
+        {
+          "code": "exploitingad",
+          "information": null,
+          "order": 5
+        },
+        {
+          "code": "persistingad",
+          "information": null,
+          "order": 6
+        },
+        {
+          "code": "credharvesting",
+          "information": null,
+          "order": 7
+        }
+      ],
+      "taskNo": 6
+    }
+  ],
+  "modules": [],
+  "roomNo": 36,
+  "summary": "This learning path will teach you how to execute adversary attack emulations as a Red Team Operator.",
+  "careers": [],
+  "difficulty": "intermediate",
+  "timeToComplete": {
+    "_total": 3020,
+    "abusingwindowsinternals": 60,
+    "adenumeration": 120,
+    "avevasionshellcode": 120,
+    "breachingad": 120,
+    "bypassinguac": 45,
+    "credharvesting": 120,
+    "dataxexfilt": 60,
+    "enumerationpe": 90,
+    "exploitingad": 120,
+    "introtoav": 90,
+    "introtoc2": 60,
+    "lateralmovementandpivoting": 45,
+    "livingofftheland": 60,
+    "monitoringevasion": 60,
+    "obfuscationprinciples": 60,
+    "opsec": 90,
+    "passwordattacks": 120,
+    "persistingad": 120,
+    "phishingyl": 60,
+    "redteamengagements": 90,
+    "redteamfirewalls": 180,
+    "redteamfundamentals": 20,
+    "redteamnetsec": 120,
+    "redteamrecon": 120,
+    "redteamthreatintel": 60,
+    "runtimedetectionevasion": 60,
+    "sandboxevasion": 180,
+    "signatureevasion": 60,
+    "thelayoftheland": 60,
+    "weaponization": 120,
+    "winadbasics": 30,
+    "windowsapi": 60,
+    "windowsinternals": 60,
+    "windowslocalpersistence": 120,
+    "windowsprivesc20": 60
+  },
+  "badges": [
+    {
+      "title": "ADversary",
+      "description": "Completing all Active Directory networks",
+      "image": "/img/badges/attackingad.svg",
+      "toEarn": "persistingad"
+    }
+  ]
+}

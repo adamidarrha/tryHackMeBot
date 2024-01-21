@@ -1,0 +1,380 @@
+{
+    "module name": "Red Team Fundamentals",
+    "time": 8,
+    "rooms": [
+        {
+            "room name": "redteamfundamentals",
+            "totalTasks": 7,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [
+                        {
+                            "question": "Click to continue to the next task",
+                            "question number": 1,
+                            "is already answered": true,
+                            "submission": "",
+                            "noAnswer": true
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                },
+                {
+                    "task name": "Vulnerability Assessment and Penetration Tests Limitations",
+                    "task number": 2,
+                    "questions": [
+                        {
+                            "question": "Would vulnerability assessments prepare us to <b>detect</b> a real attacker on our networks? (Yay/Nay)",
+                            "question number": 1,
+                            "is already answered": true,
+                            "submission": "Nay",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>During a penetration test, are you concerned about being detected by the client? (Yay/Nay)</p>",
+                            "question number": 2,
+                            "is already answered": true,
+                            "submission": "Nay",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>Highly organised groups of skilled attackers are nowadays referred to as ...</p>",
+                            "question number": 3,
+                            "is already answered": true,
+                            "submission": "Advanced Persistent Threats",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 3
+                },
+                {
+                    "task name": "Red Team Engagements",
+                    "task number": 3,
+                    "questions": [
+                        {
+                            "question": "The goals of a red team engagement will often be referred to as flags or...",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>During a red team engagement, common methods used by attackers are emulated against the target. Such methods are usually called TTPs. What does TTP stand for?</p>",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "<p>The main objective of a red team engagement is to detect as many vulnerabilities in as many hosts as possible (Yay/Nay)</p>",
+                            "question number": 3,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 3
+                },
+                {
+                    "task name": "Teams and Functions of an Engagement",
+                    "task number": 4,
+                    "questions": [
+                        {
+                            "question": "What cell is responsible for the offensive operations of an engagement?",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "What cell is the trusted agent considered part of?",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 2
+                },
+                {
+                    "task name": "Engagement Structure",
+                    "task number": 5,
+                    "questions": [
+                        {
+                            "question": "If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        },
+                        {
+                            "question": "What technique's purpose is to exploit the target's system to execute code?",
+                            "question number": 2,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 2
+                },
+                {
+                    "task name": "Overview of a Red Team Engagement",
+                    "task number": 6,
+                    "questions": [
+                        {
+                            "question": "Click the \"View Site\" button and follow the example engagement to get the flag",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": false
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 7,
+                    "questions": [
+                        {
+                            "question": "Read the above and continue learning!",
+                            "question number": 1,
+                            "is already answered": false,
+                            "submission": "",
+                            "noAnswer": true
+                        }
+                    ],
+                    "numberOfQuestions": 1
+                }
+            ]
+        },
+        {
+            "room name": "redteamengagements",
+            "totalTasks": 10,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Defining Scope and Objectives",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Rules of Engagement",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Campaign Planning",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Engagement Documentation",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Concept of Operations",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Resource Plan",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Operations Plan",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Mission Plan",
+                    "task number": 9,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 10,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "redteamthreatintel",
+            "totalTasks": 8,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "What is Threat Intelligence",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Applying Threat Intel to the Red Team",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "The TIBER-EU Framework",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "TTP Mapping",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Other Red Team Applications of CTI",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Creating a Threat Intel Driven Campaign",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Conclusion",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "opsec",
+            "totalTasks": 8,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Critical Information Identification",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Threat Analysis",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Vulnerability Analysis",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Risk Assessment",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Countermeasures",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "More Practical Examples",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Summary",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        },
+        {
+            "room name": "introtoc2",
+            "totalTasks": 8,
+            "tasks": [
+                {
+                    "task name": "Introduction",
+                    "task number": 1,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Command and Control Framework Structure",
+                    "task number": 2,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Common C2 Frameworks",
+                    "task number": 3,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Setting Up a C2 Framework ",
+                    "task number": 4,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "C2 Operation Basics",
+                    "task number": 5,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Command, Control, and Conquer ",
+                    "task number": 6,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Advanced C2 Setups",
+                    "task number": 7,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                },
+                {
+                    "task name": "Wrapping Up ",
+                    "task number": 8,
+                    "questions": [],
+                    "numberOfQuestions": 0
+                }
+            ]
+        }
+    ]
+}
